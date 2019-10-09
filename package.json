@@ -30,7 +30,7 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/synicalsyntax/discord.js-heroku/issues"
+    "url": "https://buildpack-registry.s3.amazonaws.com/buildpacks/heroku/java.tgz"
   },
   "homepage": "https://github.com/synicalsyntax/discord.js-heroku#readme"
 }
