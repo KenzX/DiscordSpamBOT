@@ -6,7 +6,7 @@ console.log("Scrpit By Dream");
 client.on("ready", () => {
 let channel =     client.channels.get("631575503354200076")
 setInterval(function() {
-channel.send(`Join Here : https://discord.gg/75C7nZZ`);
+channel.send(`Welcome Noppee`);
 }, 30)
 })
 
